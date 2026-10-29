@@ -1,0 +1,9 @@
+Item_ID,Target,Prime,TargetType,PrimeType,Cue0,Cue1,Cue2,Cue3,Group,Order
+1,The class went for an outing today. Students went to the park and teachers went to get coffee.,"Last Tuesday, Alice rode the bus to school.",Bare,WeakDefNounDefDet,went for,outing,park,coffee,A,0.9
+2,The class went for an outing today. Students went to the park and teachers went to get coffee.,"Last Tuesday, Alice rode the bike to school.",Bare,StrongDefNounDefDet,went for,outing,park,coffee,A,1
+3,The class went for an outing today. Students went to the park and teachers went to get coffee.,"Last Tuesday, Alice rode a bus to school.",Bare,WeakDefNounIndefDet,went for,outing,park,coffee,A,1
+4,The class went for an outing today. Students went to the park and teachers went to get coffee.,"Last Tuesday, Alice rode a bike to school.",Bare,StrongDefNounIndefDet,went for,outing,park,coffee,A,3
+5,The class went for an outing today. The students went to the park and the teachers went to get coffee.,"Last Tuesday, Alice rode the bus to school.",The,WeakDefNounDefDet,went for,outing,park,coffee,A,4
+6,The class went for an outing today. The students went to the park and the teachers went to get coffee.,"Last Tuesday, Alice rode the bike to school.",The,StrongDefNounDefDet,went for,outing,park,coffee,A,6
+7,The class went for an outing today. The students went to the park and the teachers went to get coffee.,"Last Tuesday, Alice rode a bus to school.",The,WeakDefNounIndefDet,went for,outing,park,coffee,A,6
+8,The class went for an outing today. The students went to the park and the teachers went to get coffee.,"Last Tuesday, Alice rode a bike to school.",The,StrongDefNounIndefDet,went for,outing,park,coffee,A,7

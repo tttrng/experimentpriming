@@ -1,0 +1,337 @@
+﻿Item_ID,Target,Prime,TargetType,PrimeType,Cue0,Cue1,Cue2,Cue3,Group,Order
+201,The geologist maintained obsidian forms when magma cools rapidly.,"Who did Michael claim that, according to the almanac, accompanied the caravan?",Filler,Filler,Who did Michael,claim,according to,accompanied,A,0.9
+14,The author said the book had sold well.,The writer asked this: Who did the astronauts greet after the Apollo 11 splashdown?,Null,Control,said,author,sold well,book,A,1
+301,"The zookeeper tried to feed the lion, but he couldn't.","The festival was supposed to be great, and Daniel asked a friend if it was great.",filler,filler,festival,supposed to be great,Daniel,if it,A,1
+11,The boy assumed that he passed the final exam.,Tim asked this: Who did my sister kiss during the party?,That,Control,passed,exam,boy,assumed,A,3
+103,"He wanted to attend the lecture, but he couldn't attend it.","Everyone said that the book is good, and Lisa wants to know how it actually is.",Ellipsis,Nominal,attend,but he,he,wanted to,A,4
+10,The student said the teacher scolded her friend.,"Who did the reporter hear that, during the 1995 World Cup, interviewed Nelson Mandela?",Null,Subject,scolded,student,said,teacher,A,6
+104,"I thought she bought the car, but apparently she may not have bought it.","The restaurant is supposed to be great, but Maria wonders if it really is great.",Ellipsis,Predicative,she,bought,but apparently,I thought,A,6
+302,"The philosopher wanted to understand the ancient text, but he didn't .","Although the cafeteria food looks bad, Peter tries it to find out if it really is.",filler,filler,Peter tries to,Althought,cafeteria food,looks bad,A,7
+16,The fireman thought the baby had been rescued.,"Who did the writer claim that, after the Chernobyl disaster, talked to the nuclear scientist?",Null,Subject,fireman,rescued,baby,thought,A,8
+21,The farmer suspected his wife washed his donkeys.,"Who did the teacher assume that Edison inspired, in all likelihood?",Null,Object,washed,wife,suspected,farmer,A,9
+101,"The man wanted to understand the theory, but he couldn't understand it.","The party was said to be fun, but John wondered if it really was.",Ellipsis,Nominal,man,wanted,understand,but he,A,9
+24,The manager implied that no one was laid off.,"Who did Mary believe that the manager promoted, for all intents and purposes?",That,Object,laid off,no one,implied,manager,A,10
+4,The woman heard the bird had attacked a cyclist.,"Who did the girl assume that, according to the tabloid article, dated Taylor Swift?",Null,Subject,heard,bird,attacked,woman,A,11
+106,"The girl doesn't want to study, but her mother believes she should study.","Many said the concert was amazing, so Kevin asked his sister how amazing it was.",Ellipsis,Predicative,study,doesn't want to,girl,but her mother,A,11
+15,The girl believed the library had been closed.,"Who did George guess that his roommate would invite to the party, in all likelihood?",Null,Object,library,believed,girl,closed,A,14
+107,"The boy wanted to eat the cake, but he couldn't eat it.","The trip looked fun in the photos, so Ethan asked his friend how it was.",Ellipsis,Nominal,wanted to,boy,but he,cake,A,14
+20,Nathan acknowledged he lost the ring yesterday.,"Sue asked this: Who did my daughter fall in love with, in all likelihood?",Null,Control,acknowledged,lost,ring,Nathan,A,16
+109,"The backpacker wanted to try the local wine, but he couldn't try it.","The soup smells delicious, and Sofia can't wait to find out if it is.",Ellipsis,Nominal,backpacker,wanted to try,local wine,but he,A,16
+204,The perfumer proposed that saffron retains its aroma for months.,"Who did the monk think that, for all intents and purposes, criticized the Church?",Filler,Filler,think,for all intents,criticized,Who did the monk,A,16.9
+303,"The librarian asked him to return the book, but he refused to.","Everyone said the new café was good, so Sam asked a coworker how it was.",filler,filler,good,so Sam asked,Everyone said,new café,A,17
+110,"The baby refused to sleep, though his mother wanted him to sleep.","People say the coffee here is terrible, but Mark wants to know how terrible it really is.",Ellipsis,Predicative,though his mother,baby,refused,sleep,A,19
+8,The waiter acknowledged he overcharged the customer.,The commentator asked this: Who did Michael Jordan outperform during the 1992 Olympics?,Null,Control,waiter,customer,overcharged,acknowledged,A,20
+9,The scientist guessed the theory was disproven.,Who did Morgan mention that Brad Pitt dated during the 1990s?,Null,Object,scientist,guessed,theory,disproven,A,21
+112,"The activist tried to convince the students, but he couldn't convince them.","Although the show was supposed to be awful, Olivia watched it to see if it was awful.",Ellipsis,Predicative,tried,convince,but he,activist,A,21
+7,The novelist implied that the main character died.,"Who did the journalist think that, during Apollo 11, worked with Neil Armstrong?",That,Subject,implied,main character,died,novelist,A,22
+114,"I don't think the architect designed that building, but she might have designed it.","The vacation looked relaxing in the pictures, so Maya asked her sister how relaxing it really was.",Ellipsis,Predicative,designed,architect,I don't think,but she,A,24
+205,The glaciologist hypothesized that permafrost preserves pollen for millennia.,Who did Jack say that his father talk to after the funeral?,Filler,Filler,funeral,father,say,Who did Jack,A,24.9
+116,"The engineer didn't help his wife, although he could help her.","The wedding looked nice in the photos, so James asked his cousin if it really was nice.",Ellipsis,Predicative,engineer,although he,his wife,didn't help,A,26
+13,The historian claimed that the king had built the castle.,"Who did Bill believe that, after the 2008 election, interviewed Barack Obama?",That,Subject,built,historian,claimed,king,A,27
+304,"The surgeon asked the patient's family to stay calm, but they couldn't.","The cake looks amazing, but Michael wonders how amazing it actually is.",filler,filler,amazing,but Michael wonders,how,cake looks,A,27
+117,"The mathematician didn't work on the problem, although he could work on it.","The pizza looks good, but Carlos wonders if it actually is.",Ellipsis,Nominal,mathematician,didn't work on,problem,although he,A,29
+18,The midwife assumed that the baby had been washed.,Who did Phil say that the manager fired after the video conference?,That,Object,midwife,washed,baby,assumed,A,30
+5,The director announced that he had decided to make a new movie.,"The biologist asked this: Who did Charles Darwin influence, according to the paper?",That,Control,director,announced,decided,new movie,A,31
+119,"Richard thought he could resolve the conflict, but he couldn't resolve it.","Critics said the album was great, but Nina wanted to listen to it herself to see how it was.",Ellipsis,Nominal,conflict,but he,Richard,could resolve,A,31
+23,The president announced that the bill successfully passed.,"Ken asked this: Who did the journalist defame, for all intents and purposes?",That,Control,announced,president,passed,bill,A,32
+206,The ceramicist noted that porcelain rings when tapped.,Seth asked this: Who did my uncle visit during Halloween?,Filler,Filler,visit,who did my uncle,Seth asked,Halloween,A,32.9
+17,The doctor heard that the nurse had taken care of the patient.,The curator asked this: Who did the police contact first after the Mona Lisa was stolen?,That,Control,doctor,heard,nurse,care of,A,34
+120,"Michelle didn't want to watch the movie, but she had to watch it.","The date sounded fun, so Thomas asked his roommate if it really was fun.",Ellipsis,Predicative,watch,movie,but she,Michelle,A,34
+202,The numismatist observed pewter tarnishes when exposed to salt air.,"Who did Jim infer that the park ranger rescued, according to the newspaper?",Filler,Filler,according to,Who did Jim,infer,park ranger,A,35.9
+22,The union leader argued the employee was fired unjustly.,"Who did Beth believe that, after the Titanic sank, helped the captain?",Null,Subject,employee,argued,union leader,fired,A,36
+102,"They wanted to visit the historical site, but they couldn't visit it.","Everyone said the movie was great, so David went to see how great it was.",Ellipsis,Predicative,but they,they,wanted to,visit,A,36
+12,The dentist thought that the man flossed his teeth last night.,Who did the historian argue that Churchill supported during World War II?,That,Object,man,thought,dentist,flossed,A,37
+305,"The store clerk wanted the customer to spend more, but the customer didn't.","Rita is a dietitian, but Scott isn't a dietitian.",filler,filler,isn't,Scott,dietitian,Rita,A,37
+3,The breeder believed the dog had been well-trained.,"Who did the boy say that John Lennon married, according to the magazine article?",Null,Object,dog,well-trained,breeder,believed,A,39
+105,"I thought the woman wrote the book, but apparently she may not have written it.","Although the hotel looked nice, Emily checked the reviews to see if it was.",Ellipsis,Nominal,but apparently,wrote,woman,I thought,A,39
+19,The woman guessed that her husband quit his job.,"Who did Jacob argue that, for all intents and purposes, bribed the politician?",That,Subject,husband,quit,woman,guessed,A,40
+111,"The employees refused to work, though their manager expected them to work.","The restaurant looked nice in the photos, so Hannah asked her friend how it actually was.",Ellipsis,Nominal,work,though their manager,employees,refused,A,41
+6,The engineer suspected that he had made a huge mistake.,"Who did Helen hear that Trump sued, according to the podcast?",That,Object,suspected,engineer,mistake,made,A,42
+2,The professor argued the theory had been disproven.,"Bob asked this: Who did Cleopatra marry, according to historical documents?",Null,Control,disproven,professor,argued,theory,A,43
+203,The entomologist remarked fireflies synchronize their flashes at dusk.,Elly asked this: Who did the Elise fall in love with?,Filler,Filler,Elise,love with,Elly asked,Who did,A,43.9
+113,"I am not sure if the journalist wrote that article, but he might have written it.","The new game is supposed to be fun, so Leo wants to try it to see if it is.",Ellipsis,Nominal,but he,wrote,journalist,I am not sure,A,44
+1,The nurse claimed that the patient had fainted.,"Who did the quizmaster say that, according to philosophical texts, taught Plato?",That,Subject,fainted,patient,claimed,nurse,A,46
+115,"The bus driver wanted the passengers to sit, but they wouldn't sit.","The museum is said to be great, and Rachel wants to find out how it is.",Ellipsis,Nominal,wanted,bus driver,but they,passengers,A,46
+306,"The woodworker asked the supporter to visit the studio, but he didn't.","Olivia fed Pam's cat, but not Rex's cat.",filler,filler,Pam's,fed,Olivia,but not,A,47
+118,"The politician didn't acknowledge the issue, but I think he should have acknowledged it.","The class was said to be boring, so Claire asked a classmate how boring it really was.",Ellipsis,Predicative,but I think,politician,didn't acknowledge,issue,A,49
+108,"The photographer wanted to buy the camera, but she couldn't buy it.","Reviews said the play was bad, but Anna wondered if it really was bad.",Ellipsis,Predicative,photographer,but she,camera,wanted to buy,A,51
+201,The geologist maintained obsidian forms when magma cools rapidly.,"Who did Michael claim that, according to the almanac, accompanied the caravan?",Filler,Filler,Who did Michael,claim,according to,accompanied,B,0.9
+14,The author said that the book had sold well.,"Who did the writer mention that, after the Apollo 11 splashdown, greeted the astronauts?",That,Subject,said,author,sold well,book,B,1
+301,"The zookeeper tried to feed the lion, but he couldn't.","The festival was supposed to be great, and Daniel asked a friend if it was great.",filler,filler,festival,supposed to be great,Daniel,if it,B,1
+11,The boy assumed he passed the final exam.,"Who did Tim claim that, during the party, kissed Tim's sister?",Null,Subject,passed,exam,boy,assumed,B,3
+103,"He wanted to attend the lecture, but he couldn't attend it.","Everyone said that the book is good, and Lisa wants to know how good it actually is.",Ellipsis,Predicative,attend,but he,he,wanted to,B,4
+10,The student said the teacher scolded her friend.,Who did the reporter hear that Nelson Mandela interviewed during the 1995 World Cup?,Null,Object,scolded,student,said,teacher,B,6
+104,"I thought she bought the car, but apparently she may not have bought it.","The restaurant is supposed to be great, but Maria wonders how it really is.",Ellipsis,Nominal,she,bought,but apparently,I thought,B,6
+302,"The philosopher wanted to understand the ancient text, but he didn't .","Although the cafeteria food looks bad, Peter tries it to find out if it really is.",filler,filler,Peter tries to,Althought,cafeteria food,looks bad,B,7
+16,The fireman thought the baby had been rescued.,Who did the writer claim that the nuclear scientist talked to after the Chernobyl disaster?,Null,Object,fireman,rescued,baby,thought,B,8
+21,The farmer suspected his wife washed his donkeys.,"The teacher asked this: Who did Edison inspire, in all likelihood?",Null,Control,washed,wife,suspected,farmer,B,9
+101,"The man wanted to understand the theory, but he couldn't understand it.","The party was said to be fun, but John wondered if it really was fun.",Ellipsis,Predicative,man,wanted,understand,but he,B,9
+24,The manager implied that no one was laid off.,"Mary asked this: Who did the manager promote, for all intents and purposes?",That,Control,laid off,no one,implied,manager,B,10
+4,The woman heard the bird had attacked a cyclist.,"Who did the girl assume that Taylor Swift dated, according to the tabloid article?",Null,Object,heard,bird,attacked,woman,B,11
+106,"The girl doesn't want to study, but her mother believes she should study.","Many said the concert was amazing, so Kevin asked his sister if it was.",Ellipsis,Nominal,study,doesn't want to,girl,but her mother,B,11
+15,The girl believed the library had been closed.,"George asked this: Who would my roommate invite to the party, in all likelihood?",Null,Control,library,believed,girl,closed,B,14
+107,"The boy wanted to eat the cake, but he couldn't eat it.","The trip looked fun in the photos, so Ethan asked his friend how fun it was.",Ellipsis,Predicative,wanted to,boy,but he,cake,B,14
+20,Nathan acknowledged that he lost the ring yesterday.,"Who did Sue hear that, in all likelihood, her daughter fell in love with?",That,Subject,acknowledged,lost,ring,Nathan,B,16
+109,"The backpacker wanted to try the local wine, but he couldn't try it.","The soup smells delicious, and Sofia can't wait to find out if it is delicious.",Ellipsis,Predicative,backpacker,wanted to try,local wine,but he,B,16
+204,The perfumer proposed that saffron retains its aroma for months.,"Who did the monk think that, for all intents and purposes, criticized the Church?",Filler,Filler,think,for all intents,criticized,Who did the monk,B,16.9
+303,"The librarian asked him to return the book, but he refused to.","Everyone said the new café was good, so Sam asked a coworker how it was.",filler,filler,good,so Sam asked,Everyone said,new café,B,17
+110,"The baby refused to sleep, though his mother wanted him to sleep.","People say the coffee here is terrible, but Mark wants to know if it really is.",Ellipsis,Nominal,though his mother,baby,refused,sleep,B,19
+8,The waiter acknowledged that he overcharged the customer.,"Who did the commentator assume that, during the 1992 Olympics, outperformed Michael Jordan?",That,Subject,waiter,customer,overcharged,acknowledged,B,20
+9,The scientist guessed the theory was disproven.,Morgan asked this: Who did Brad Pitt date during the 1990s?,Null,Control,scientist,guessed,theory,disproven,B,21
+112,"The activist tried to convince the students, but he couldn't convince them.","Although the show was supposed to be awful, Olivia watched it to see how it was.",Ellipsis,Nominal,tried,convince,but he,activist,B,21
+7,The novelist implied that the main character died.,Who did the journalist think that Neil Armstrong worked with during Apollo 11?,That,Object,implied,main character,died,novelist,B,22
+114,"I don't think the architect designed that building, but she might have designed it.","The vacation looked relaxing in the pictures, so Maya asked her sister if it really was.",Ellipsis,Nominal,designed,architect,I don't think,but she,B,24
+205,The glaciologist hypothesized that permafrost preserves pollen for millennia.,Who did Jack say that his father talk to after the funeral?,Filler,Filler,funeral,father,say,Who did Jack,B,24.9
+116,"The engineer didn't help his wife, although he could help her.","The wedding looked nice in the photos, so James asked his cousin how it really was.",Ellipsis,Nominal,engineer,although he,his wife,didn't help,B,26
+13,The historian claimed that the king had built the castle.,Who did Bill believe that Barack Obama interviewed after the 2008 election?,That,Object,built,historian,claimed,king,B,27
+304,"The surgeon asked the patient's family to stay calm, but they couldn't.","The cake looks amazing, but Michael wonders how amazing it actually is.",filler,filler,amazing,but Michael wonders,how,cake looks,B,27
+117,"The mathematician didn't work on the problem, although he could work on it.","The pizza looks good, but Carlos wonders if it actually is good.",Ellipsis,Predicative,mathematician,didn't work on,problem,although he,B,29
+18,The midwife assumed that the baby had been washed.,Phil asked this: Who did the manager fire after the video conference?,That,Control,midwife,washed,baby,assumed,B,30
+5,The director announced he had decided to make a new movie.,"Who did the biologist argue that, according to the paper, influenced Charles Darwin?",Null,Subject,director,announced,decided,new movie,B,31
+119,"Richard thought he could resolve the conflict, but he couldn't resolve it.","Critics said the album was great, but Nina wanted to listen to it herself to see how great it was.",Ellipsis,Predicative,conflict,but he,Richard,could resolve,B,31
+23,The president announced the bill successfully passed.,"Who did Ken think that, for all intents and purposes, defamed the journalist?",Null,Subject,announced,president,passed,bill,B,32
+206,The ceramicist noted that porcelain rings when tapped.,Seth asked this: Who did my uncle visit during Halloween?,Filler,Filler,visit,who did my uncle,Seth asked,Halloween,B,32.9
+17,The doctor heard the nurse had taken care of the patient.,"Who did the curator mention that, after the Mona Lisa was stolen, contacted the police first?",Null,Subject,doctor,heard,nurse,care of,B,34
+120,"Michelle didn't want to watch the movie, but she had to watch it.","The date sounded fun, so Thomas asked his roommate how it really was.",Ellipsis,Nominal,watch,movie,but she,Michelle,B,34
+202,The numismatist observed pewter tarnishes when exposed to salt air.,"Who did Jim infer that the park ranger rescued, according to the newspaper?",Filler,Filler,according to,Who did Jim,infer,park ranger,B,35.9
+22,The union leader argued the employee was fired unjustly.,Who did Beth believe that the captain helped after the Titanic sank?,Null,Object,employee,argued,union leader,fired,B,36
+102,"They wanted to visit the historical site, but they couldn't visit it.","Everyone said the movie was great, so David went to see if it was.",Ellipsis,Nominal,but they,they,wanted to,visit,B,36
+12,The dentist thought that the man flossed his teeth last night.,The historian asked this: Who did Churchill support during World War II?,That,Control,man,thought,dentist,flossed,B,37
+305,"The store clerk wanted the customer to spend more, but the customer didn't.","Rita is a dietitian, but Scott isn't a dietitian.",filler,filler,isn't,Scott,dietitian,Rita,B,37
+3,The breeder believed the dog had been well-trained.,"The boy asked this: Who did John Lennon marry, according to the magazine article?",Null,Control,dog,well-trained,breeder,believed,B,39
+105,"I thought the woman wrote the book, but apparently she may not have written it.","Although the hotel looked nice, Emily checked the reviews to see if it was nice.",Ellipsis,Predicative,but apparently,wrote,woman,I thought,B,39
+19,The woman guessed that her husband quit his job.,"Who did Jacob argue that the politician bribed, for all intents and purposes?",That,Object,husband,quit,woman,guessed,B,40
+111,"The employees refused to work, though their manager expected them to work.","The restaurant looked nice in the photos, so Hannah asked her friend how nice it actually was.",Ellipsis,Predicative,work,though their manager,employees,refused,B,41
+6,The engineer suspected that he had made a huge mistake.,"Helen asked this: Who did Trump sue, according to the podcast?",That,Control,suspected,engineer,mistake,made,B,42
+2,The professor argued that the theory had been disproven.,"Who did Bob claim that, according to historical documents, married Cleopatra?",That,Subject,disproven,professor,argued,theory,B,43
+203,The entomologist remarked fireflies synchronize their flashes at dusk.,Elly asked this: Who did the Elise fall in love with?,Filler,Filler,Elise,love with,Elly asked,Who did,B,43.9
+113,"I am not sure if the journalist wrote that article, but he might have written it.","The new game is supposed to be fun, so Leo wants to try it to see if it is fun.",Ellipsis,Predicative,but he,wrote,journalist,I am not sure,B,44
+1,The nurse claimed that the patient had fainted.,"Who did the quizmaster say that Plato taught, according to philosophical texts?",That,Object,fainted,patient,claimed,nurse,B,46
+115,"The bus driver wanted the passengers to sit, but they wouldn't sit.","The museum is said to be great, and Rachel wants to find out how great it is.",Ellipsis,Predicative,wanted,bus driver,but they,passengers,B,46
+306,"The woodworker asked the supporter to visit the studio, but he didn't.","Olivia fed Pam's cat, but not Rex's cat.",filler,filler,Pam's,fed,Olivia,but not,B,47
+118,"The politician didn't acknowledge the issue, but I think he should have acknowledged it.","The class was said to be boring, so Claire asked a classmate if it really was.",Ellipsis,Nominal,but I think,politician,didn't acknowledge,issue,B,49
+108,"The photographer wanted to buy the camera, but she couldn't buy it.","Reviews said the play was bad, but Anna wondered how it really was.",Ellipsis,Nominal,photographer,but she,camera,wanted to buy,B,51
+201,The geologist maintained obsidian forms when magma cools rapidly.,"Who did Michael claim that, according to the almanac, accompanied the caravan?",Filler,Filler,Who did Michael,claim,according to,accompanied,C,0.9
+14,The author said that the book had sold well.,Who did the writer mention that the astronauts greeted after the Apollo 11 splashdown?,That,Object,said,author,sold well,book,C,1
+301,"The zookeeper tried to feed the lion, but he couldn't.","The festival was supposed to be great, and Daniel asked a friend if it was great.",filler,filler,festival,supposed to be great,Daniel,if it,C,1
+11,The boy assumed he passed the final exam.,Who did Tim claim that Tim's sister kissed during the party?,Null,Object,passed,exam,boy,assumed,C,3
+103,"He wanted to attend the lecture, but he couldn't attend it.","Everyone said that the book is good, and Lisa wants to know if it actually is.",Ellipsis,Nominal,attend,but he,he,wanted to,C,4
+10,The student said the teacher scolded her friend.,The reporter asked this: Who did Nelson Mandela interview during the 1995 World Cup?,Null,Control,scolded,student,said,teacher,C,6
+104,"I thought she bought the car, but apparently she may not have bought it.","The restaurant is supposed to be great, but Maria wonders how great it really is.",Ellipsis,Predicative,she,bought,but apparently,I thought,C,6
+302,"The philosopher wanted to understand the ancient text, but he didn't .","Although the cafeteria food looks bad, Peter tries it to find out if it really is.",filler,filler,Peter tries to,Althought,cafeteria food,looks bad,C,7
+16,The fireman thought the baby had been rescued.,The writer asked this: Who did the nuclear scientist talk to after the Chernobyl disaster?,Null,Control,fireman,rescued,baby,thought,C,8
+21,The farmer suspected that his wife washed his donkeys.,"Who did the teacher assume that, in all likelihood, inspired Edison?",That,Subject,washed,wife,suspected,farmer,C,9
+101,"The man wanted to understand the theory, but he couldn't understand it.","The party was said to be fun, but John wondered how it really was.",Ellipsis,Nominal,man,wanted,understand,but he,C,9
+24,The manager implied no one was laid off.,"Who did Mary believe that, for all intents and purposes, promoted the manager?",Null,Subject,laid off,no one,implied,manager,C,10
+4,The woman heard the bird had attacked a cyclist.,"The girl asked this: Who did Taylor Swift date, according to the tabloid article?",Null,Control,heard,bird,attacked,woman,C,11
+106,"The girl doesn't want to study, but her mother believes she should study.","Many said the concert was amazing, so Kevin asked his sister if it was amazing.",Ellipsis,Predicative,study,doesn't want to,girl,but her mother,C,11
+15,The girl believed that the library had been closed.,"Who did George guess that, in all likelihood, would invite his roommate to the party?",That,Subject,library,believed,girl,closed,C,14
+107,"The boy wanted to eat the cake, but he couldn't eat it.","The trip looked fun in the photos, so Ethan asked his friend if it was.",Ellipsis,Nominal,wanted to,boy,but he,cake,C,14
+20,Nathan acknowledged that he lost the ring yesterday.,"Who did Sue hear that her daughter fell in love with, in all likelihood?",That,Object,acknowledged,lost,ring,Nathan,C,16
+109,"The backpacker wanted to try the local wine, but he couldn't try it.","The soup smells delicious, and Sofia can't wait to find out how it is.",Ellipsis,Nominal,backpacker,wanted to try,local wine,but he,C,16
+204,The perfumer proposed that saffron retains its aroma for months.,"Who did the monk think that, for all intents and purposes, criticized the Church?",Filler,Filler,think,for all intents,criticized,Who did the monk,C,16.9
+303,"The librarian asked him to return the book, but he refused to.","Everyone said the new café was good, so Sam asked a coworker how it was.",filler,filler,good,so Sam asked,Everyone said,new café,C,17
+110,"The baby refused to sleep, though his mother wanted him to sleep.","People say the coffee here is terrible, but Mark wants to know if it really is terrible.",Ellipsis,Predicative,though his mother,baby,refused,sleep,C,19
+8,The waiter acknowledged that he overcharged the customer.,Who did the commentator assume that Michael Jordan outperformed during the 1992 Olympics?,That,Object,waiter,customer,overcharged,acknowledged,C,20
+9,The scientist guessed that the theory was disproven.,"Who did Morgan mention that, during the 1990s, dated Brad Pitt?",That,Subject,scientist,guessed,theory,disproven,C,21
+112,"The activist tried to convince the students, but he couldn't convince them.","Although the show was supposed to be awful, Olivia watched it to see how awful it was.",Ellipsis,Predicative,tried,convince,but he,activist,C,21
+7,The novelist implied that the main character died.,The journalist asked this: Who did Neil Armstrong work with during Apollo 11?,That,Control,implied,main character,died,novelist,C,22
+114,"I don't think the architect designed that building, but she might have designed it.","The vacation looked relaxing in the pictures, so Maya asked her sister if it really was relaxing.",Ellipsis,Predicative,designed,architect,I don't think,but she,C,24
+205,The glaciologist hypothesized that permafrost preserves pollen for millennia.,Who did Jack say that his father talk to after the funeral?,Filler,Filler,funeral,father,say,Who did Jack,C,24.9
+116,"The engineer didn't help his wife, although he could help her.","The wedding looked nice in the photos, so James asked his cousin how nice it really was.",Ellipsis,Predicative,engineer,although he,his wife,didn't help,C,26
+13,The historian claimed that the king had built the castle.,Bill asked this: Who did Barack Obama interview after the 2008 election?,That,Control,built,historian,claimed,king,C,27
+304,"The surgeon asked the patient's family to stay calm, but they couldn't.","The cake looks amazing, but Michael wonders how amazing it actually is.",filler,filler,amazing,but Michael wonders,how,cake looks,C,27
+117,"The mathematician didn't work on the problem, although he could work on it.","The pizza looks good, but Carlos wonders how it actually is.",Ellipsis,Nominal,mathematician,didn't work on,problem,although he,C,29
+18,The midwife assumed the baby had been washed.,"Who did Phil say that, after the video conference, the manager fired?",Null,Subject,midwife,washed,baby,assumed,C,30
+5,The director announced he had decided to make a new movie.,"Who did the biologist argue that Charles Darwin influenced, according to the paper?",Null,Object,director,announced,decided,new movie,C,31
+119,"Richard thought he could resolve the conflict, but he couldn't resolve it.","Critics said the album was great, but Nina wanted to listen to it herself to see if it was.",Ellipsis,Nominal,conflict,but he,Richard,could resolve,C,31
+23,The president announced the bill successfully passed.,"Who did Ken think that the journalist defamed, for all intents and purposes?",Null,Object,announced,president,passed,bill,C,32
+206,The ceramicist noted that porcelain rings when tapped.,Seth asked this: Who did my uncle visit during Halloween?,Filler,Filler,visit,who did my uncle,Seth asked,Halloween,C,32.9
+17,The doctor heard the nurse had taken care of the patient.,Who did the curator mention that the police contacted first after the Mona Lisa was stolen?,Null,Object,doctor,heard,nurse,care of,C,34
+120,"Michelle didn't want to watch the movie, but she had to watch it.","The date sounded fun, so Thomas asked his roommate how fun it really was.",Ellipsis,Predicative,watch,movie,but she,Michelle,C,34
+202,The numismatist observed pewter tarnishes when exposed to salt air.,"Who did Jim infer that the park ranger rescued, according to the newspaper?",Filler,Filler,according to,Who did Jim,infer,park ranger,C,35.9
+22,The union leader argued the employee was fired unjustly.,Beth asked this: Who did the captain help after the Titanic sank?,Null,Control,employee,argued,union leader,fired,C,36
+102,"They wanted to visit the historical site, but they couldn't visit it.","Everyone said the movie was great, so David went to see if it was great.",Ellipsis,Predicative,but they,they,wanted to,visit,C,36
+12,The dentist thought the man flossed his teeth last night.,"Who did the historian argue that, during World War II, supported Churchill?",Null,Subject,man,thought,dentist,flossed,C,37
+305,"The store clerk wanted the customer to spend more, but the customer didn't.","Rita is a dietitian, but Scott isn't a dietitian.",filler,filler,isn't,Scott,dietitian,Rita,C,37
+3,The breeder believed that the dog had been well-trained.,"Who did the boy say that, according to the magazine article, married John Lennon?",That,Subject,dog,well-trained,breeder,believed,C,39
+105,"I thought the woman wrote the book, but apparently she may not have written it.","Although the hotel looked nice, Emily checked the reviews to see how it was.",Ellipsis,Nominal,but apparently,wrote,woman,I thought,C,39
+19,The woman guessed that her husband quit his job.,"Jacob asked this: Who did the politician bribe, for all intents and purposes?",That,Control,husband,quit,woman,guessed,C,40
+111,"The employees refused to work, though their manager expected them to work.","The restaurant looked nice in the photos, so Hannah asked her friend if it actually was.",Ellipsis,Nominal,work,though their manager,employees,refused,C,41
+6,The engineer suspected he had made a huge mistake.,"Who did Helen hear that, according to the podcast, sued Trump?",Null,Subject,suspected,engineer,mistake,made,C,42
+2,The professor argued that the theory had been disproven.,"Who did Bob claim that Cleopatra married, according to historical documents?",That,Object,disproven,professor,argued,theory,C,43
+203,The entomologist remarked fireflies synchronize their flashes at dusk.,Elly asked this: Who did the Elise fall in love with?,Filler,Filler,Elise,love with,Elly asked,Who did,C,43.9
+113,"I am not sure if the journalist wrote that article, but he might have written it.","The new game is supposed to be fun, so Leo wants to try it to see how it is.",Ellipsis,Nominal,but he,wrote,journalist,I am not sure,C,44
+1,The nurse claimed that the patient had fainted.,"The quizmaster asked this: Who did Plato teach, according to philosophical texts?",That,Control,fainted,patient,claimed,nurse,C,46
+115,"The bus driver wanted the passengers to sit, but they wouldn't sit.","The museum is said to be great, and Rachel wants to find out if it is.",Ellipsis,Nominal,wanted,bus driver,but they,passengers,C,46
+306,"The woodworker asked the supporter to visit the studio, but he didn't.","Olivia fed Pam's cat, but not Rex's cat.",filler,filler,Pam's,fed,Olivia,but not,C,47
+118,"The politician didn't acknowledge the issue, but I think he should have acknowledged it.","The class was said to be boring, so Claire asked a classmate if it really was boring.",Ellipsis,Predicative,but I think,politician,didn't acknowledge,issue,C,49
+108,"The photographer wanted to buy the camera, but she couldn't buy it.","Reviews said the play was bad, but Anna wondered how bad it really was.",Ellipsis,Predicative,photographer,but she,camera,wanted to buy,C,51
+201,The geologist maintained obsidian forms when magma cools rapidly.,"Who did Michael claim that, according to the almanac, accompanied the caravan?",Filler,Filler,Who did Michael,claim,according to,accompanied,D,0.9
+14,The author said that the book had sold well.,The writer asked this: Who did the astronauts greet after the Apollo 11 splashdown?,That,Control,said,author,sold well,book,D,1
+301,"The zookeeper tried to feed the lion, but he couldn't.","The festival was supposed to be great, and Daniel asked a friend if it was great.",filler,filler,festival,supposed to be great,Daniel,if it,D,1
+11,The boy assumed he passed the final exam.,Tim asked this: Who did my sister kiss during the party?,Null,Control,passed,exam,boy,assumed,D,3
+103,"He wanted to attend the lecture, but he couldn't attend it.","Everyone said that the book is good, and Lisa wants to know if it actually is good.",Ellipsis,Predicative,attend,but he,he,wanted to,D,4
+10,The student said that the teacher scolded her friend.,"Who did the reporter hear that, during the 1995 World Cup, interviewed Nelson Mandela?",That,Subject,scolded,student,said,teacher,D,6
+104,"I thought she bought the car, but apparently she may not have bought it.","The restaurant is supposed to be great, but Maria wonders if it really is.",Ellipsis,Nominal,she,bought,but apparently,I thought,D,6
+302,"The philosopher wanted to understand the ancient text, but he didn't .","Although the cafeteria food looks bad, Peter tries it to find out if it really is.",filler,filler,Peter tries to,Althought,cafeteria food,looks bad,D,7
+16,The fireman thought that the baby had been rescued.,"Who did the writer claim that, after the Chernobyl disaster, talked to the nuclear scientist?",That,Subject,fireman,rescued,baby,thought,D,8
+21,The farmer suspected that his wife washed his donkeys.,"Who did the teacher assume that Edison inspired, in all likelihood?",That,Object,washed,wife,suspected,farmer,D,9
+101,"The man wanted to understand the theory, but he couldn't understand it.","The party was said to be fun, but John wondered how fun it really was.",Ellipsis,Predicative,man,wanted,understand,but he,D,9
+24,The manager implied no one was laid off.,"Who did Mary believe that the manager promoted, for all intents and purposes?",Null,Object,laid off,no one,implied,manager,D,10
+4,The woman heard that the bird had attacked a cyclist.,"Who did the girl assume that, according to the tabloid article, dated Taylor Swift?",That,Subject,heard,bird,attacked,woman,D,11
+106,"The girl doesn't want to study, but her mother believes she should study.","Many said the concert was amazing, so Kevin asked his sister how it was.",Ellipsis,Nominal,study,doesn't want to,girl,but her mother,D,11
+15,The girl believed that the library had been closed.,"Who did George guess that his roommate would invite to the party, in all likelihood?",That,Object,library,believed,girl,closed,D,14
+107,"The boy wanted to eat the cake, but he couldn't eat it.","The trip looked fun in the photos, so Ethan asked his friend if it was fun.",Ellipsis,Predicative,wanted to,boy,but he,cake,D,14
+20,Nathan acknowledged that he lost the ring yesterday.,"Sue asked this: Who did my daughter fall in love with, in all likelihood?",That,Control,acknowledged,lost,ring,Nathan,D,16
+109,"The backpacker wanted to try the local wine, but he couldn't try it.","The soup smells delicious, and Sofia can't wait to find out how delicious it is.",Ellipsis,Predicative,backpacker,wanted to try,local wine,but he,D,16
+204,The perfumer proposed that saffron retains its aroma for months.,"Who did the monk think that, for all intents and purposes, criticized the Church?",Filler,Filler,think,for all intents,criticized,Who did the monk,D,16.9
+303,"The librarian asked him to return the book, but he refused to.","Everyone said the new café was good, so Sam asked a coworker how it was.",filler,filler,good,so Sam asked,Everyone said,new café,D,17
+110,"The baby refused to sleep, though his mother wanted him to sleep.","People say the coffee here is terrible, but Mark wants to know how it really is.",Ellipsis,Nominal,though his mother,baby,refused,sleep,D,19
+8,The waiter acknowledged that he overcharged the customer.,The commentator asked this: Who did Michael Jordan outperform during the 1992 Olympics?,That,Control,waiter,customer,overcharged,acknowledged,D,20
+9,The scientist guessed that the theory was disproven.,Who did Morgan mention that Brad Pitt dated during the 1990s?,That,Object,scientist,guessed,theory,disproven,D,21
+112,"The activist tried to convince the students, but he couldn't convince them.","Although the show was supposed to be awful, Olivia watched it to see if it was.",Ellipsis,Nominal,tried,convince,but he,activist,D,21
+7,The novelist implied the main character died.,"Who did the journalist think that, during Apollo 11, worked with Neil Armstrong?",Null,Subject,implied,main character,died,novelist,D,22
+114,"I don't think the architect designed that building, but she might have designed it.","The vacation looked relaxing in the pictures, so Maya asked her sister how it really was.",Ellipsis,Nominal,designed,architect,I don't think,but she,D,24
+205,The glaciologist hypothesized that permafrost preserves pollen for millennia.,Who did Jack say that his father talk to after the funeral?,Filler,Filler,funeral,father,say,Who did Jack,D,24.9
+116,"The engineer didn't help his wife, although he could help her.","The wedding looked nice in the photos, so James asked his cousin if it really was.",Ellipsis,Nominal,engineer,although he,his wife,didn't help,D,26
+13,The historian claimed the king had built the castle.,"Who did Bill believe that, after the 2008 election, interviewed Barack Obama?",Null,Subject,built,historian,claimed,king,D,27
+304,"The surgeon asked the patient's family to stay calm, but they couldn't.","The cake looks amazing, but Michael wonders how amazing it actually is.",filler,filler,amazing,but Michael wonders,how,cake looks,D,27
+117,"The mathematician didn't work on the problem, although he could work on it.","The pizza looks good, but Carlos wonders how good it actually is.",Ellipsis,Predicative,mathematician,didn't work on,problem,although he,D,29
+18,The midwife assumed the baby had been washed.,Who did Phil say that the manager fired after the video conference?,Null,Object,midwife,washed,baby,assumed,D,30
+5,The director announced he had decided to make a new movie.,"The biologist asked this: Who did Charles Darwin influence, according to the paper?",Null,Control,director,announced,decided,new movie,D,31
+119,"Richard thought he could resolve the conflict, but he couldn't resolve it.","Critics said the album was great, but Nina wanted to listen to it herself to see if it was great.",Ellipsis,Predicative,conflict,but he,Richard,could resolve,D,31
+23,The president announced the bill successfully passed.,"Ken asked this: Who did the journalist defame, for all intents and purposes?",Null,Control,announced,president,passed,bill,D,32
+206,The ceramicist noted that porcelain rings when tapped.,Seth asked this: Who did my uncle visit during Halloween?,Filler,Filler,visit,who did my uncle,Seth asked,Halloween,D,32.9
+17,The doctor heard the nurse had taken care of the patient.,The curator asked this: Who did the police contact first after the Mona Lisa was stolen?,Null,Control,doctor,heard,nurse,care of,D,34
+120,"Michelle didn't want to watch the movie, but she had to watch it.","The date sounded fun, so Thomas asked his roommate if it really was.",Ellipsis,Nominal,watch,movie,but she,Michelle,D,34
+202,The numismatist observed pewter tarnishes when exposed to salt air.,"Who did Jim infer that the park ranger rescued, according to the newspaper?",Filler,Filler,according to,Who did Jim,infer,park ranger,D,35.9
+22,The union leader argued that the employee was fired unjustly.,"Who did Beth believe that, after the Titanic sank, helped the captain?",That,Subject,employee,argued,union leader,fired,D,36
+102,"They wanted to visit the historical site, but they couldn't visit it.","Everyone said the movie was great, so David went to see how it was.",Ellipsis,Nominal,but they,they,wanted to,visit,D,36
+12,The dentist thought the man flossed his teeth last night.,Who did the historian argue that Churchill supported during World War II?,Null,Object,man,thought,dentist,flossed,D,37
+305,"The store clerk wanted the customer to spend more, but the customer didn't.","Rita is a dietitian, but Scott isn't a dietitian.",filler,filler,isn't,Scott,dietitian,Rita,D,37
+3,The breeder believed that the dog had been well-trained.,"Who did the boy say that John Lennon married, according to the magazine article?",That,Object,dog,well-trained,breeder,believed,D,39
+105,"I thought the woman wrote the book, but apparently she may not have written it.","Although the hotel looked nice, Emily checked the reviews to see how nice it was.",Ellipsis,Predicative,but apparently,wrote,woman,I thought,D,39
+19,The woman guessed her husband quit his job.,"Who did Jacob argue that, for all intents and purposes, bribed the politician?",Null,Subject,husband,quit,woman,guessed,D,40
+111,"The employees refused to work, though their manager expected them to work.","The restaurant looked nice in the photos, so Hannah asked her friend if it actually was nice.",Ellipsis,Predicative,work,though their manager,employees,refused,D,41
+6,The engineer suspected he had made a huge mistake.,"Who did Helen hear that Trump sued, according to the podcast?",Null,Object,suspected,engineer,mistake,made,D,42
+2,The professor argued that the theory had been disproven.,"Bob asked this: Who did Cleopatra marry, according to historical documents?",That,Control,disproven,professor,argued,theory,D,43
+203,The entomologist remarked fireflies synchronize their flashes at dusk.,Elly asked this: Who did the Elise fall in love with?,Filler,Filler,Elise,love with,Elly asked,Who did,D,43.9
+113,"I am not sure if the journalist wrote that article, but he might have written it.","The new game is supposed to be fun, so Leo wants to try it to see how fun it is.",Ellipsis,Predicative,but he,wrote,journalist,I am not sure,D,44
+1,The nurse claimed the patient had fainted.,"Who did the quizmaster say that, according to philosophical texts, taught Plato?",Null,Subject,fainted,patient,claimed,nurse,D,46
+115,"The bus driver wanted the passengers to sit, but they wouldn't sit.","The museum is said to be great, and Rachel wants to find out if it is great.",Ellipsis,Predicative,wanted,bus driver,but they,passengers,D,46
+306,"The woodworker asked the supporter to visit the studio, but he didn't.","Olivia fed Pam's cat, but not Rex's cat.",filler,filler,Pam's,fed,Olivia,but not,D,47
+118,"The politician didn't acknowledge the issue, but I think he should have acknowledged it.","The class was said to be boring, so Claire asked a classmate how it really was.",Ellipsis,Nominal,but I think,politician,didn't acknowledge,issue,D,49
+108,"The photographer wanted to buy the camera, but she couldn't buy it.","Reviews said the play was bad, but Anna wondered if it really was.",Ellipsis,Nominal,photographer,but she,camera,wanted to buy,D,51
+201,The geologist maintained obsidian forms when magma cools rapidly.,"Who did Michael claim that, according to the almanac, accompanied the caravan?",Filler,Filler,Who did Michael,claim,according to,accompanied,E,0.9
+14,The author said the book had sold well.,"Who did the writer mention that, after the Apollo 11 splashdown, greeted the astronauts?",Null,Subject,said,author,sold well,book,E,1
+301,"The zookeeper tried to feed the lion, but he couldn't.","The festival was supposed to be great, and Daniel asked a friend if it was great.",filler,filler,festival,supposed to be great,Daniel,if it,E,1
+11,The boy assumed that he passed the final exam.,"Who did Tim claim that, during the party, kissed Tim's sister?",That,Subject,passed,exam,boy,assumed,E,3
+103,"He wanted to attend the lecture, but he couldn't attend it.","Everyone said that the book is good, and Lisa wants to know how it actually is.",Ellipsis,Nominal,attend,but he,he,wanted to,E,4
+10,The student said that the teacher scolded her friend.,Who did the reporter hear that Nelson Mandela interviewed during the 1995 World Cup?,That,Object,scolded,student,said,teacher,E,6
+104,"I thought she bought the car, but apparently she may not have bought it.","The restaurant is supposed to be great, but Maria wonders if it really is great.",Ellipsis,Predicative,she,bought,but apparently,I thought,E,6
+302,"The philosopher wanted to understand the ancient text, but he didn't .","Although the cafeteria food looks bad, Peter tries it to find out if it really is.",filler,filler,Peter tries to,Althought,cafeteria food,looks bad,E,7
+16,The fireman thought that the baby had been rescued.,Who did the writer claim that the nuclear scientist talked to after the Chernobyl disaster?,That,Object,fireman,rescued,baby,thought,E,8
+21,The farmer suspected that his wife washed his donkeys.,"The teacher asked this: Who did Edison inspire, in all likelihood?",That,Control,washed,wife,suspected,farmer,E,9
+101,"The man wanted to understand the theory, but he couldn't understand it.","The party was said to be fun, but John wondered if it really was.",Ellipsis,Nominal,man,wanted,understand,but he,E,9
+24,The manager implied no one was laid off.,"Mary asked this: Who did the manager promote, for all intents and purposes?",Null,Control,laid off,no one,implied,manager,E,10
+4,The woman heard that the bird had attacked a cyclist.,"Who did the girl assume that Taylor Swift dated, according to the tabloid article?",That,Object,heard,bird,attacked,woman,E,11
+106,"The girl doesn't want to study, but her mother believes she should study.","Many said the concert was amazing, so Kevin asked his sister how amazing it was.",Ellipsis,Predicative,study,doesn't want to,girl,but her mother,E,11
+15,The girl believed that the library had been closed.,"George asked this: Who would my roommate invite to the party, in all likelihood?",That,Control,library,believed,girl,closed,E,14
+107,"The boy wanted to eat the cake, but he couldn't eat it.","The trip looked fun in the photos, so Ethan asked his friend how it was.",Ellipsis,Nominal,wanted to,boy,but he,cake,E,14
+20,Nathan acknowledged he lost the ring yesterday.,"Who did Sue hear that, in all likelihood, her daughter fell in love with?",Null,Subject,acknowledged,lost,ring,Nathan,E,16
+109,"The backpacker wanted to try the local wine, but he couldn't try it.","The soup smells delicious, and Sofia can't wait to find out if it is.",Ellipsis,Nominal,backpacker,wanted to try,local wine,but he,E,16
+204,The perfumer proposed that saffron retains its aroma for months.,"Who did the monk think that, for all intents and purposes, criticized the Church?",Filler,Filler,think,for all intents,criticized,Who did the monk,E,16.9
+303,"The librarian asked him to return the book, but he refused to.","Everyone said the new café was good, so Sam asked a coworker how it was.",filler,filler,good,so Sam asked,Everyone said,new café,E,17
+110,"The baby refused to sleep, though his mother wanted him to sleep.","People say the coffee here is terrible, but Mark wants to know how terrible it really is.",Ellipsis,Predicative,though his mother,baby,refused,sleep,E,19
+8,The waiter acknowledged he overcharged the customer.,"Who did the commentator assume that, during the 1992 Olympics, outperformed Michael Jordan?",Null,Subject,waiter,customer,overcharged,acknowledged,E,20
+9,The scientist guessed that the theory was disproven.,Morgan asked this: Who did Brad Pitt date during the 1990s?,That,Control,scientist,guessed,theory,disproven,E,21
+112,"The activist tried to convince the students, but he couldn't convince them.","Although the show was supposed to be awful, Olivia watched it to see if it was awful.",Ellipsis,Predicative,tried,convince,but he,activist,E,21
+7,The novelist implied the main character died.,Who did the journalist think that Neil Armstrong worked with during Apollo 11?,Null,Object,implied,main character,died,novelist,E,22
+114,"I don't think the architect designed that building, but she might have designed it.","The vacation looked relaxing in the pictures, so Maya asked her sister how relaxing it really was.",Ellipsis,Predicative,designed,architect,I don't think,but she,E,24
+205,The glaciologist hypothesized that permafrost preserves pollen for millennia.,Who did Jack say that his father talk to after the funeral?,Filler,Filler,funeral,father,say,Who did Jack,E,24.9
+116,"The engineer didn't help his wife, although he could help her.","The wedding looked nice in the photos, so James asked his cousin if it really was nice.",Ellipsis,Predicative,engineer,although he,his wife,didn't help,E,26
+13,The historian claimed the king had built the castle.,Who did Bill believe that Barack Obama interviewed after the 2008 election?,Null,Object,built,historian,claimed,king,E,27
+304,"The surgeon asked the patient's family to stay calm, but they couldn't.","The cake looks amazing, but Michael wonders how amazing it actually is.",filler,filler,amazing,but Michael wonders,how,cake looks,E,27
+117,"The mathematician didn't work on the problem, although he could work on it.","The pizza looks good, but Carlos wonders if it actually is.",Ellipsis,Nominal,mathematician,didn't work on,problem,although he,E,29
+18,The midwife assumed the baby had been washed.,Phil asked this: Who did the manager fire after the video conference?,Null,Control,midwife,washed,baby,assumed,E,30
+5,The director announced that he had decided to make a new movie.,"Who did the biologist argue that, according to the paper, influenced Charles Darwin?",That,Subject,director,announced,decided,new movie,E,31
+119,"Richard thought he could resolve the conflict, but he couldn't resolve it.","Critics said the album was great, but Nina wanted to listen to it herself to see how it was.",Ellipsis,Nominal,conflict,but he,Richard,could resolve,E,31
+23,The president announced that the bill successfully passed.,"Who did Ken think that, for all intents and purposes, defamed the journalist?",That,Subject,announced,president,passed,bill,E,32
+206,The ceramicist noted that porcelain rings when tapped.,Seth asked this: Who did my uncle visit during Halloween?,Filler,Filler,visit,who did my uncle,Seth asked,Halloween,E,32.9
+17,The doctor heard that the nurse had taken care of the patient.,"Who did the curator mention that, after the Mona Lisa was stolen, contacted the police first?",That,Subject,doctor,heard,nurse,care of,E,34
+120,"Michelle didn't want to watch the movie, but she had to watch it.","The date sounded fun, so Thomas asked his roommate if it really was fun.",Ellipsis,Predicative,watch,movie,but she,Michelle,E,34
+202,The numismatist observed pewter tarnishes when exposed to salt air.,"Who did Jim infer that the park ranger rescued, according to the newspaper?",Filler,Filler,according to,Who did Jim,infer,park ranger,E,35.9
+22,The union leader argued that the employee was fired unjustly.,Who did Beth believe that the captain helped after the Titanic sank?,That,Object,employee,argued,union leader,fired,E,36
+102,"They wanted to visit the historical site, but they couldn't visit it.","Everyone said the movie was great, so David went to see how great it was.",Ellipsis,Predicative,but they,they,wanted to,visit,E,36
+12,The dentist thought the man flossed his teeth last night.,The historian asked this: Who did Churchill support during World War II?,Null,Control,man,thought,dentist,flossed,E,37
+305,"The store clerk wanted the customer to spend more, but the customer didn't.","Rita is a dietitian, but Scott isn't a dietitian.",filler,filler,isn't,Scott,dietitian,Rita,E,37
+3,The breeder believed that the dog had been well-trained.,"The boy asked this: Who did John Lennon marry, according to the magazine article?",That,Control,dog,well-trained,breeder,believed,E,39
+105,"I thought the woman wrote the book, but apparently she may not have written it.","Although the hotel looked nice, Emily checked the reviews to see if it was.",Ellipsis,Nominal,but apparently,wrote,woman,I thought,E,39
+19,The woman guessed her husband quit his job.,"Who did Jacob argue that the politician bribed, for all intents and purposes?",Null,Object,husband,quit,woman,guessed,E,40
+111,"The employees refused to work, though their manager expected them to work.","The restaurant looked nice in the photos, so Hannah asked her friend how it actually was.",Ellipsis,Nominal,work,though their manager,employees,refused,E,41
+6,The engineer suspected he had made a huge mistake.,"Helen asked this: Who did Trump sue, according to the podcast?",Null,Control,suspected,engineer,mistake,made,E,42
+2,The professor argued the theory had been disproven.,"Who did Bob claim that, according to historical documents, married Cleopatra?",Null,Subject,disproven,professor,argued,theory,E,43
+203,The entomologist remarked fireflies synchronize their flashes at dusk.,Elly asked this: Who did the Elise fall in love with?,Filler,Filler,Elise,love with,Elly asked,Who did,E,43.9
+113,"I am not sure if the journalist wrote that article, but he might have written it.","The new game is supposed to be fun, so Leo wants to try it to see if it is.",Ellipsis,Nominal,but he,wrote,journalist,I am not sure,E,44
+1,The nurse claimed the patient had fainted.,"Who did the quizmaster say that Plato taught, according to philosophical texts?",Null,Object,fainted,patient,claimed,nurse,E,46
+115,"The bus driver wanted the passengers to sit, but they wouldn't sit.","The museum is said to be great, and Rachel wants to find out how it is.",Ellipsis,Nominal,wanted,bus driver,but they,passengers,E,46
+306,"The woodworker asked the supporter to visit the studio, but he didn't.","Olivia fed Pam's cat, but not Rex's cat.",filler,filler,Pam's,fed,Olivia,but not,E,47
+118,"The politician didn't acknowledge the issue, but I think he should have acknowledged it.","The class was said to be boring, so Claire asked a classmate how boring it really was.",Ellipsis,Predicative,but I think,politician,didn't acknowledge,issue,E,49
+108,"The photographer wanted to buy the camera, but she couldn't buy it.","Reviews said the play was bad, but Anna wondered if it really was bad.",Ellipsis,Predicative,photographer,but she,camera,wanted to buy,E,51
+201,The geologist maintained obsidian forms when magma cools rapidly.,"Who did Michael claim that, according to the almanac, accompanied the caravan?",Filler,Filler,Who did Michael,claim,according to,accompanied,F,0.9
+14,The author said the book had sold well.,Who did the writer mention that the astronauts greeted after the Apollo 11 splashdown?,Null,Object,said,author,sold well,book,F,1
+301,"The zookeeper tried to feed the lion, but he couldn't.","The festival was supposed to be great, and Daniel asked a friend if it was great.",filler,filler,festival,supposed to be great,Daniel,if it,F,1
+11,The boy assumed that he passed the final exam.,Who did Tim claim that Tim's sister kissed during the party?,That,Object,passed,exam,boy,assumed,F,3
+103,"He wanted to attend the lecture, but he couldn't attend it.","Everyone said that the book is good, and Lisa wants to know how good it actually is.",Ellipsis,Predicative,attend,but he,he,wanted to,F,4
+10,The student said that the teacher scolded her friend.,The reporter asked this: Who did Nelson Mandela interview during the 1995 World Cup?,That,Control,scolded,student,said,teacher,F,6
+104,"I thought she bought the car, but apparently she may not have bought it.","The restaurant is supposed to be great, but Maria wonders how it really is.",Ellipsis,Nominal,she,bought,but apparently,I thought,F,6
+302,"The philosopher wanted to understand the ancient text, but he didn't .","Although the cafeteria food looks bad, Peter tries it to find out if it really is.",filler,filler,Peter tries to,Althought,cafeteria food,looks bad,F,7
+16,The fireman thought that the baby had been rescued.,The writer asked this: Who did the nuclear scientist talk to after the Chernobyl disaster?,That,Control,fireman,rescued,baby,thought,F,8
+21,The farmer suspected his wife washed his donkeys.,"Who did the teacher assume that, in all likelihood, inspired Edison?",Null,Subject,washed,wife,suspected,farmer,F,9
+101,"The man wanted to understand the theory, but he couldn't understand it.","The party was said to be fun, but John wondered if it really was fun.",Ellipsis,Predicative,man,wanted,understand,but he,F,9
+24,The manager implied that no one was laid off.,"Who did Mary believe that, for all intents and purposes, promoted the manager?",That,Subject,laid off,no one,implied,manager,F,10
+4,The woman heard that the bird had attacked a cyclist.,"The girl asked this: Who did Taylor Swift date, according to the tabloid article?",That,Control,heard,bird,attacked,woman,F,11
+106,"The girl doesn't want to study, but her mother believes she should study.","Many said the concert was amazing, so Kevin asked his sister if it was.",Ellipsis,Nominal,study,doesn't want to,girl,but her mother,F,11
+15,The girl believed the library had been closed.,"Who did George guess that, in all likelihood, would invite his roommate to the party?",Null,Subject,library,believed,girl,closed,F,14
+107,"The boy wanted to eat the cake, but he couldn't eat it.","The trip looked fun in the photos, so Ethan asked his friend how fun it was.",Ellipsis,Predicative,wanted to,boy,but he,cake,F,14
+20,Nathan acknowledged he lost the ring yesterday.,"Who did Sue hear that her daughter fell in love with, in all likelihood?",Null,Object,acknowledged,lost,ring,Nathan,F,16
+109,"The backpacker wanted to try the local wine, but he couldn't try it.","The soup smells delicious, and Sofia can't wait to find out if it is delicious.",Ellipsis,Predicative,backpacker,wanted to try,local wine,but he,F,16
+204,The perfumer proposed that saffron retains its aroma for months.,"Who did the monk think that, for all intents and purposes, criticized the Church?",Filler,Filler,think,for all intents,criticized,Who did the monk,F,16.9
+303,"The librarian asked him to return the book, but he refused to.","Everyone said the new café was good, so Sam asked a coworker how it was.",filler,filler,good,so Sam asked,Everyone said,new café,F,17
+110,"The baby refused to sleep, though his mother wanted him to sleep.","People say the coffee here is terrible, but Mark wants to know if it really is.",Ellipsis,Nominal,though his mother,baby,refused,sleep,F,19
+8,The waiter acknowledged he overcharged the customer.,Who did the commentator assume that Michael Jordan outperformed during the 1992 Olympics?,Null,Object,waiter,customer,overcharged,acknowledged,F,20
+9,The scientist guessed the theory was disproven.,"Who did Morgan mention that, during the 1990s, dated Brad Pitt?",Null,Subject,scientist,guessed,theory,disproven,F,21
+112,"The activist tried to convince the students, but he couldn't convince them.","Although the show was supposed to be awful, Olivia watched it to see how it was.",Ellipsis,Nominal,tried,convince,but he,activist,F,21
+7,The novelist implied the main character died.,The journalist asked this: Who did Neil Armstrong work with during Apollo 11?,Null,Control,implied,main character,died,novelist,F,22
+114,"I don't think the architect designed that building, but she might have designed it.","The vacation looked relaxing in the pictures, so Maya asked her sister if it really was.",Ellipsis,Nominal,designed,architect,I don't think,but she,F,24
+205,The glaciologist hypothesized that permafrost preserves pollen for millennia.,Who did Jack say that his father talk to after the funeral?,Filler,Filler,funeral,father,say,Who did Jack,F,24.9
+116,"The engineer didn't help his wife, although he could help her.","The wedding looked nice in the photos, so James asked his cousin how it really was.",Ellipsis,Nominal,engineer,although he,his wife,didn't help,F,26
+13,The historian claimed the king had built the castle.,Bill asked this: Who did Barack Obama interview after the 2008 election?,Null,Control,built,historian,claimed,king,F,27
+304,"The surgeon asked the patient's family to stay calm, but they couldn't.","The cake looks amazing, but Michael wonders how amazing it actually is.",filler,filler,amazing,but Michael wonders,how,cake looks,F,27
+117,"The mathematician didn't work on the problem, although he could work on it.","The pizza looks good, but Carlos wonders if it actually is good.",Ellipsis,Predicative,mathematician,didn't work on,problem,although he,F,29
+18,The midwife assumed that the baby had been washed.,"Who did Phil say that, after the video conference, the manager fired?",That,Subject,midwife,washed,baby,assumed,F,30
+5,The director announced that he had decided to make a new movie.,"Who did the biologist argue that Charles Darwin influenced, according to the paper?",That,Object,director,announced,decided,new movie,F,31
+119,"Richard thought he could resolve the conflict, but he couldn't resolve it.","Critics said the album was great, but Nina wanted to listen to it herself to see how great it was.",Ellipsis,Predicative,conflict,but he,Richard,could resolve,F,31
+23,The president announced that the bill successfully passed.,"Who did Ken think that the journalist defamed, for all intents and purposes?",That,Object,announced,president,passed,bill,F,32
+206,The ceramicist noted that porcelain rings when tapped.,Seth asked this: Who did my uncle visit during Halloween?,Filler,Filler,visit,who did my uncle,Seth asked,Halloween,F,32.9
+17,The doctor heard that the nurse had taken care of the patient.,Who did the curator mention that the police contacted first after the Mona Lisa was stolen?,That,Object,doctor,heard,nurse,care of,F,34
+120,"Michelle didn't want to watch the movie, but she had to watch it.","The date sounded fun, so Thomas asked his roommate how it really was.",Ellipsis,Nominal,watch,movie,but she,Michelle,F,34
+202,The numismatist observed pewter tarnishes when exposed to salt air.,"Who did Jim infer that the park ranger rescued, according to the newspaper?",Filler,Filler,according to,Who did Jim,infer,park ranger,F,35.9
+22,The union leader argued that the employee was fired unjustly.,Beth asked this: Who did the captain help after the Titanic sank?,That,Control,employee,argued,union leader,fired,F,36
+102,"They wanted to visit the historical site, but they couldn't visit it.","Everyone said the movie was great, so David went to see if it was.",Ellipsis,Nominal,but they,they,wanted to,visit,F,36
+12,The dentist thought that the man flossed his teeth last night.,"Who did the historian argue that, during World War II, supported Churchill?",That,Subject,man,thought,dentist,flossed,F,37
+305,"The store clerk wanted the customer to spend more, but the customer didn't.","Rita is a dietitian, but Scott isn't a dietitian.",filler,filler,isn't,Scott,dietitian,Rita,F,37
+3,The breeder believed the dog had been well-trained.,"Who did the boy say that, according to the magazine article, married John Lennon?",Null,Subject,dog,well-trained,breeder,believed,F,39
+105,"I thought the woman wrote the book, but apparently she may not have written it.","Although the hotel looked nice, Emily checked the reviews to see if it was nice.",Ellipsis,Predicative,but apparently,wrote,woman,I thought,F,39
+19,The woman guessed her husband quit his job.,"Jacob asked this: Who did the politician bribe, for all intents and purposes?",Null,Control,husband,quit,woman,guessed,F,40
+111,"The employees refused to work, though their manager expected them to work.","The restaurant looked nice in the photos, so Hannah asked her friend how nice it actually was.",Ellipsis,Predicative,work,though their manager,employees,refused,F,41
+6,The engineer suspected that he had made a huge mistake.,"Who did Helen hear that, according to the podcast, sued Trump?",That,Subject,suspected,engineer,mistake,made,F,42
+2,The professor argued the theory had been disproven.,"Who did Bob claim that Cleopatra married, according to historical documents?",Null,Object,disproven,professor,argued,theory,F,43
+203,The entomologist remarked fireflies synchronize their flashes at dusk.,Elly asked this: Who did the Elise fall in love with?,Filler,Filler,Elise,love with,Elly asked,Who did,F,43.9
+113,"I am not sure if the journalist wrote that article, but he might have written it.","The new game is supposed to be fun, so Leo wants to try it to see if it is fun.",Ellipsis,Predicative,but he,wrote,journalist,I am not sure,F,44
+1,The nurse claimed the patient had fainted.,"The quizmaster asked this: Who did Plato teach, according to philosophical texts?",Null,Control,fainted,patient,claimed,nurse,F,46
+115,"The bus driver wanted the passengers to sit, but they wouldn't sit.","The museum is said to be great, and Rachel wants to find out how great it is.",Ellipsis,Predicative,wanted,bus driver,but they,passengers,F,46
+306,"The woodworker asked the supporter to visit the studio, but he didn't.","Olivia fed Pam's cat, but not Rex's cat.",filler,filler,Pam's,fed,Olivia,but not,F,47
+118,"The politician didn't acknowledge the issue, but I think he should have acknowledged it.","The class was said to be boring, so Claire asked a classmate if it really was.",Ellipsis,Nominal,but I think,politician,didn't acknowledge,issue,F,49
+108,"The photographer wanted to buy the camera, but she couldn't buy it.","Reviews said the play was bad, but Anna wondered how it really was.",Ellipsis,Nominal,photographer,but she,camera,wanted to buy,F,51
