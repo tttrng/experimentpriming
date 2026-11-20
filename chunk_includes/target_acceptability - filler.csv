@@ -1,0 +1,25 @@
+Item,Sentence,PrimeType,StimType
+1001,The tennis player hit the ball hard.,filler_good,filler_good
+1002,"Of all the places to travel, Mexico is at the top of my list.",filler_good,filler_good
+1003,John loves Mary.,filler_good,filler_good
+1004,They were both great kids with a marvelous future.,filler_good,filler_good
+1005,It was a good thing they were going home tomorrow.,filler_good,filler_good
+1006,"The car was six years old now, but it was in good shape and still had low mileage.",filler_good,filler_good
+1007,Carmen thought that might be the end of the conflict.,filler_good,filler_good
+1008,Mary slept the baby in the bedroom.,filler_bad,filler_bad
+1009,The boy dined the soup in the restaurant.,filler_bad,filler_bad
+1010,The man will chased the cat.,filler_bad,filler_bad
+1011,The woman donated the library the book.,filler_bad,filler_bad
+1012,John laughed his friend after class.,filler_bad,filler_bad
+1013,The girl will be danced.,filler_bad,filler_bad
+1014,The director was instructed the actor.,filler_bad,filler_bad
+1015,Which doctor did the patient see?,filler_good,filler_good
+1016,Which cat did the girl play with after feeding?,filler_good,filler_good
+1017,Which heater did the man replace after breaking?,filler_good,filler_good
+1018,Which TV show did the boy watch without complaining about?,filler_good,filler_good
+1019,Which hospital did the man go to?,filler_good,filler_good
+1020,Which toy did the woman wonder whether the baby likes?,filler_bad,filler_bad
+1021,Which stroller did the man wonder where his wife bought?,filler_bad,filler_bad
+1022,Which bus did you wonder how the bus driver drives?,filler_bad,filler_bad
+1023,Which carpet did the salesman wonder whether the customer likes?,filler_bad,filler_bad
+1024,Which phone did the engineer wonder where it is invented?,filler_bad,filler_bad
