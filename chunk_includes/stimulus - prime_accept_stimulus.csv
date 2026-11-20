@@ -1,0 +1,97 @@
+Item,Sentence,Group,StimType
+1,How did Clara get medical attention yesterday morning? Clara saw a doctor.,A,WI
+1,How did Clara get medical attention yesterday morning? Clara saw the doctor.,B,WD
+1,What did Clara do last weekend? Clara criticized a doctor.,C,RI
+1,What did Clara do last weekend? Clara criticized the doctor.,D,RD
+2,How did Ben follow baseball yesterday? Ben listened to a radio.,D,WI
+2,How did Ben follow baseball yesterday? Ben listened to the radio.,A,WD
+2,What did Ben do after broadcast? Ben repaired a radio.,B,RI
+2,What did Ben do after broadcast? Ben repaired the radio.,C,RD
+3,How did Nina catch up on current events yesterday? Nina read a newspaper.,C,WI
+3,How did Nina catch up on current events yesterday? Nina read the newspaper.,D,WD
+3,What did Nina do after breakfast? Nina folded a newspaper.,A,RI
+3,What did Nina do after breakfast? Nina folded the newspaper.,B,RD
+4,Where did Rachel go to buy groceries yesterday? Rachel went to a store.,B,WI
+4,Where did Rachel go to buy groceries yesterday? Rachel went to the store.,C,WD
+4,What did Rachel do for her photography class? Rachel photographed a store.,D,RI
+4,What did Rachel do for her photography class? Rachel photographed the store.,A,RD
+5,How did Ben receive treatment for his injury? Ben went to a hospital.,A,WI
+5,How did Ben receive treatment for his injury? Ben went to the hospital.,B,WD
+5,What did Ben renovate last year? Ben renovated a hospital.,C,RI
+5,What did Ben renovate last year? Ben renovated the hospital.,D,RD
+6,How did Daniel find his appointment date? Daniel checked a calendar.,D,WI
+6,How did Daniel find his appointment date? Daniel checked the calendar.,A,WD
+6,What did Daniel do after he got mad? Daniel tore a calendar.,B,RI
+6,What did Daniel do after he got mad? Daniel tore the calendar.,C,RD
+7,How did Emma travel to Boston? Emma took a plane.,C,WI
+7,How did Emma travel to Boston? Emma took the plane.,D,WD
+7,What did Emma do before boarding? Emma inspected a plane.,A,RI
+7,What did Emma do before boarding? Emma inspected the plane.,B,RD
+8,How did Owen get to work this morning? Owen took a bus.,B,WI
+8,How did Owen get to work this morning? Owen took the bus.,C,WD
+8,What did Owen do while at work? Owen washed a bus.,D,RI
+8,What did Owen do while at work? Owen washed the bus.,A,RD
+9,How did Peter get around campus yesterday? Peter rode a bike.,A,WI
+9,How did Peter get around campus yesterday? Peter rode the bike.,B,WD
+9,What did Peter do while working in his garage? Peter repaired a bike.,C,RI
+9,What did Peter do while working in his garage? Peter repaired the bike.,D,RD
+10,Where did Rachel deposit her paycheck? Rachel went to a bank.,D,WI
+10,Where did Rachel deposit her paycheck? Rachel went to the bank.,A,WD
+10,What did Rachel do for her photography class? Rachel photographed a bank.,B,RI
+10,What did Rachel do for her photography class? Rachel photographed the bank.,C,RD
+11,How did Grace let fresh air into her room? Grace opened a window.,C,WI
+11,How did Grace let fresh air into her room? Grace opened the window.,D,WD
+11,What did Grace do during renovation? Grace painted a window.,A,RI
+11,What did Grace do during renovation? Grace painted the window.,B,RD
+12,Where did Nina spend her afternoon while on vacation? Nina went to a beach.,B,WI
+12,Where did Nina spend her afternoon while on vacation? Nina went to the beach.,C,WD
+12,What did Nina do for her fieldwork? Nina surveyed a beach.,D,RI
+12,What did Nina do for her fieldwork? Nina surveyed the beach.,A,RD
+13,How did Maya entertain her friends? Maya played a piano.,A,WI
+13,How did Maya entertain her friends? Maya played the piano.,B,WD
+13,What did Maya do in preparation for her recital? Maya tuned a piano.,C,RI
+13,What did Maya do in preparation for her recital? Maya tuned the piano.,D,RD
+14,How did Naomi get to work this morning? Naomi took a train.,D,WI
+14,How did Naomi get to work this morning? Naomi took the train.,A,WD
+14,What did Naomi do for her art class? Naomi painted a train.,B,RI
+14,What did Naomi do for her art class? Naomi painted the train.,C,RD
+15,How did Marcus travel across town yesterday? Marcus took a subway.,C,WI
+15,How did Marcus travel across town yesterday? Marcus took the subway.,D,WD
+15,What task did Marcus complete? Marcus mapped a subway.,A,RI
+15,What task did Marcus complete? Marcus mapped the subway.,B,RD
+16,How did Ava get home following her event? Ava took a taxi.,B,WI
+16,How did Ava get home following her event? Ava took the taxi.,C,WD
+16,What did Ava do before leaving? Ava washed a taxi.,D,RI
+16,What did Ava do before leaving? Ava washed the taxi.,A,RD
+17,How did Leo cross open water? Leo took a ferry.,A,WI
+17,How did Leo cross open water? Leo took the ferry.,B,WD
+17,What did Leo do before summer began? Leo repainted a ferry.,C,RI
+17,What did Leo do before summer began? Leo repainted the ferry.,D,RD
+18,How did Grace get upstairs? Grace took an elevator.,D,WI
+18,How did Grace get upstairs? Grace took the elevator.,A,WD
+18,What repair did Grace complete that afternoon? Grace repaired an elevator.,B,RI
+18,What repair did Grace complete that afternoon? Grace repaired the elevator.,C,RD
+19,Where did Daniel go to exercise yesterday? Daniel went to a gym.,C,WI
+19,Where did Daniel go to exercise yesterday? Daniel went to the gym.,D,WD
+19,What facility did Daniel inspect last week? Daniel inspected a gym.,A,RI
+19,What facility did Daniel inspect last week? Daniel inspected the gym.,B,RD
+20,Where did Sofia go to work this morning? Sofia went to an office.,B,WI
+20,Where did Sofia go to work this morning? Sofia went to the office.,C,WD
+20,What did Sofia do for her photography project? Sofia photographed an office.,D,RI
+20,What did Sofia do for her photography project? Sofia photographed the office.,A,RD
+21,Where did Maya prepare dinner? Maya cooked in a kitchen.,A,WI
+21,Where did Maya prepare dinner? Maya cooked in the kitchen.,B,WD
+21,What did Maya do during renovations? Maya painted a kitchen.,C,RI
+21,What did Maya do during renovations? Maya painted the kitchen.,D,RD
+22,Where did Nina go swimming? Nina swam in a pool.,D,WI
+22,Where did Nina go swimming? Nina swam in the pool.,A,WD
+22,What did Nina clean that morning? Nina cleaned a pool.,B,RI
+22,What did Nina clean that morning? Nina cleaned the pool.,C,RD
+23,Where did Eric go to see live theater? Eric went to a theater.,C,WI
+23,Where did Eric go to see live theater? Eric went to the theater.,D,WD
+23,What did Eric do for his photography class? Eric photographed a theater.,A,RI
+23,What did Eric do for his photography class? Eric photographed the theater.,B,RD
+24,How did Olivia get dental care yesterday? Olivia visited a dentist.,B,WI
+24,How did Olivia get dental care yesterday? Olivia visited the dentist.,C,WD
+24,What did Olivia do when her visit ended? Olivia thanked a dentist.,D,RI
+24,What did Olivia do when her visit ended? Olivia thanked the dentist.,A,RD
