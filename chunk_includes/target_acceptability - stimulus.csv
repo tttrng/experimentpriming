@@ -1,0 +1,97 @@
+Item,Sentence,PrimeType,Group,StimType
+1,Students but not teachers went on strike last week.,bare-bare,A,but
+1,The students but not teachers went on strike last week.,overt-bare,B,but
+1,Students but not the teachers went on strike last week.,bare-overt,C,but
+1,The students but not the teachers went on strike last week.,overt-overt,D,but
+2,The nurses but not doctors attended the safety training on Friday.,overt-bare,A,but
+2,Nurses but not the doctors attended the safety training on Friday.,bare-overt,B,but
+2,The nurses but not the doctors attended the safety training on Friday.,overt-overt,C,but
+2,Nurses but not doctors attended the safety training on Friday.,bare-bare,D,but
+3,Tenants but not the landlords signed the new lease agreement.,bare-overt,A,but
+3,The tenants but not the landlords signed the new lease agreement.,overt-overt,B,but
+3,Tenants but not landlords signed the new lease agreement.,bare-bare,C,but
+3,The tenants but not landlords signed the new lease agreement.,overt-bare,D,but
+4,The players but not the coaches traveled to the tournament by bus.,overt-overt,A,but
+4,Players but not coaches traveled to the tournament by bus.,bare-bare,B,but
+4,The players but not coaches traveled to the tournament by bus.,overt-bare,C,but
+4,Players but not the coaches traveled to the tournament by bus.,bare-overt,D,but
+5,Waiters but not cooks received a holiday bonus this year.,bare-bare,A,but
+5,The waiters but not cooks received a holiday bonus this year.,overt-bare,B,but
+5,Waiters but not the cooks received a holiday bonus this year.,bare-overt,C,but
+5,The waiters but not the cooks received a holiday bonus this year.,overt-overt,D,but
+6,The passengers but not pilots were delayed at the security checkpoint.,overt-bare,A,but
+6,Passengers but not the pilots were delayed at the security checkpoint.,bare-overt,B,but
+6,The passengers but not the pilots were delayed at the security checkpoint.,overt-overt,C,but
+6,Passengers but not pilots were delayed at the security checkpoint.,bare-bare,D,but
+7,Volunteers but not the organizers showed up early to the festival.,bare-overt,A,but
+7,The volunteers but not the organizers showed up early to the festival.,overt-overt,B,but
+7,Volunteers but not organizers showed up early to the festival.,bare-bare,C,but
+7,The volunteers but not organizers showed up early to the festival.,overt-bare,D,but
+8,The senators but not the representatives voted on the trade bill yesterday.,overt-overt,A,but
+8,Senators but not representatives voted on the trade bill yesterday.,bare-bare,B,but
+8,The senators but not representatives voted on the trade bill yesterday.,overt-bare,C,but
+8,Senators but not the representatives voted on the trade bill yesterday.,bare-overt,D,but
+9,A factory announced layoffs. Workers protested outside the gates. Managers stayed in their offices.,bare-bare,A,double
+9,A factory announced layoffs. The workers protested outside the gates. Managers stayed in their offices.,overt-bare,B,double
+9,A factory announced layoffs. Workers protested outside the gates. The managers stayed in their offices.,bare-overt,C,double
+9,A factory announced layoffs. The workers protested outside the gates. The managers stayed in their offices.,overt-overt,D,double
+10,A storm hit a coastal town. The fishermen pulled their boats ashore. Shopkeepers boarded up their windows.,overt-bare,A,double
+10,A storm hit a coastal town. Fishermen pulled their boats ashore. The shopkeepers boarded up their windows.,bare-overt,B,double
+10,A storm hit a coastal town. The fishermen pulled their boats ashore. The shopkeepers boarded up their windows.,overt-overt,C,double
+10,A storm hit a coastal town. Fishermen pulled their boats ashore. Shopkeepers boarded up their windows.,bare-bare,D,double
+11,A hospital lost power overnight. Nurses moved patients to the east wing. The doctors postponed scheduled surgeries.,bare-overt,A,double
+11,A hospital lost power overnight. The nurses moved patients to the east wing. The doctors postponed scheduled surgeries.,overt-overt,B,double
+11,A hospital lost power overnight. Nurses moved patients to the east wing. Doctors postponed scheduled surgeries.,bare-bare,C,double
+11,A hospital lost power overnight. The nurses moved patients to the east wing. Doctors postponed scheduled surgeries.,overt-bare,D,double
+12,A restaurant failed its health inspection. The cooks scrubbed the kitchen all night. The waiters called regular customers to apologize.,overt-overt,A,double
+12,A restaurant failed its health inspection. Cooks scrubbed the kitchen all night. Waiters called regular customers to apologize.,bare-bare,B,double
+12,A restaurant failed its health inspection. The cooks scrubbed the kitchen all night. Waiters called regular customers to apologize.,overt-bare,C,double
+12,A restaurant failed its health inspection. Cooks scrubbed the kitchen all night. The waiters called regular customers to apologize.,bare-overt,D,double
+13,A concert was cancelled at the last minute. Fans demanded refunds at the box office. Musicians posted apologies online.,bare-bare,A,double
+13,A concert was cancelled at the last minute. The fans demanded refunds at the box office. Musicians posted apologies online.,overt-bare,B,double
+13,A concert was cancelled at the last minute. Fans demanded refunds at the box office. The musicians posted apologies online.,bare-overt,C,double
+13,A concert was cancelled at the last minute. The fans demanded refunds at the box office. The musicians posted apologies online.,overt-overt,D,double
+14,An airline overbooked a morning flight. The passengers complained loudly at the gate. Pilots waited in the cockpit.,overt-bare,A,double
+14,An airline overbooked a morning flight. Passengers complained loudly at the gate. The pilots waited in the cockpit.,bare-overt,B,double
+14,An airline overbooked a morning flight. The passengers complained loudly at the gate. The pilots waited in the cockpit.,overt-overt,C,double
+14,An airline overbooked a morning flight. Passengers complained loudly at the gate. Pilots waited in the cockpit.,bare-bare,D,double
+15,A school introduced a new dress code. Parents wrote letters to the principal. The teachers enforced the rules reluctantly.,bare-overt,A,double
+15,A school introduced a new dress code. The parents wrote letters to the principal. The teachers enforced the rules reluctantly.,overt-overt,B,double
+15,A school introduced a new dress code. Parents wrote letters to the principal. Teachers enforced the rules reluctantly.,bare-bare,C,double
+15,A school introduced a new dress code. The parents wrote letters to the principal. Teachers enforced the rules reluctantly.,overt-bare,D,double
+16,A city raised parking fees downtown. The drivers complained to the city council. The merchants worried about losing customers.,overt-overt,A,double
+16,A city raised parking fees downtown. Drivers complained to the city council. Merchants worried about losing customers.,bare-bare,B,double
+16,A city raised parking fees downtown. The drivers complained to the city council. Merchants worried about losing customers.,overt-bare,C,double
+16,A city raised parking fees downtown. Drivers complained to the city council. The merchants worried about losing customers.,bare-overt,D,double
+17,Maria's class has two instructors. Both instructors have office hours on Monday.,bare,A,both
+17,Maria's class has two instructors. Both the instructors have office hours on Monday.,overt,B,both
+17,Maria's class has two instructors. Both instructors have office hours on Monday.,bare,C,both
+17,Maria's class has two instructors. Both the instructors have office hours on Monday.,overt,D,both
+18,Our building has two elevators. Both the elevators were out of service this morning.,overt,A,both
+18,Our building has two elevators. Both elevators were out of service this morning.,bare,B,both
+18,Our building has two elevators. Both the elevators were out of service this morning.,overt,C,both
+18,Our building has two elevators. Both elevators were out of service this morning.,bare,D,both
+19,The museum hired two guards. Both guards work the night shift.,bare,A,both
+19,The museum hired two guards. Both the guards work the night shift.,overt,B,both
+19,The museum hired two guards. Both guards work the night shift.,bare,C,both
+19,The museum hired two guards. Both the guards work the night shift.,overt,D,both
+20,Jake adopted two kittens. Both the kittens sleep on his bed.,overt,A,both
+20,Jake adopted two kittens. Both kittens sleep on his bed.,bare,B,both
+20,Jake adopted two kittens. Both the kittens sleep on his bed.,overt,C,both
+20,Jake adopted two kittens. Both kittens sleep on his bed.,bare,D,both
+21,The team signed two goalkeepers. Both goalkeepers trained hard this week.,bare,A,both
+21,The team signed two goalkeepers. Both the goalkeepers trained hard this week.,overt,B,both
+21,The team signed two goalkeepers. Both goalkeepers trained hard this week.,bare,C,both
+21,The team signed two goalkeepers. Both the goalkeepers trained hard this week.,overt,D,both
+22,The bakery has two ovens. Both the ovens broke down during the holidays.,overt,A,both
+22,The bakery has two ovens. Both ovens broke down during the holidays.,bare,B,both
+22,The bakery has two ovens. Both the ovens broke down during the holidays.,overt,C,both
+22,The bakery has two ovens. Both ovens broke down during the holidays.,bare,D,both
+23,The novel has two narrators. Both narrators are unreliable.,bare,A,both
+23,The novel has two narrators. Both the narrators are unreliable.,overt,B,both
+23,The novel has two narrators. Both narrators are unreliable.,bare,C,both
+23,The novel has two narrators. Both the narrators are unreliable.,overt,D,both
+24,The lab bought two microscopes. Both the microscopes arrived damaged.,overt,A,both
+24,The lab bought two microscopes. Both microscopes arrived damaged.,bare,B,both
+24,The lab bought two microscopes. Both the microscopes arrived damaged.,overt,C,both
+24,The lab bought two microscopes. Both microscopes arrived damaged.,bare,D,both
