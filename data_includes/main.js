@@ -32,7 +32,7 @@ PennController("Instruction",
 )
 
 
-PennController.Template("norming_stim.csv",
+PennController.Template("target_accept.csv",
     variable => PennController("norming",
     newTimer(250).start().wait(),
     newText("S", variable.Sentence).print(),
@@ -52,7 +52,7 @@ PennController.Template("norming_stim.csv",
     .log( "Group", variable.Group)
 )
 
-PennController.Template("stim_filler.csv",
+PennController.Template("filler_accept.csv",
     variable => PennController("norming",
     newTimer(250).start().wait(),
     newText("S", variable.Sentence).print(),
@@ -66,12 +66,11 @@ PennController.Template("stim_filler.csv",
         .settings.log()
     )
     .log( "Sentence", variable.Sentence)
-    .log( "PrimeType", variable.PrimeType)
     .log( "StimType", variable.StimType)
     .log( "Item_num", variable.Item)
 )
 
-PennController.Template("comparative_thattrace.csv",
+PennController.Template("prime_accept_stimulus.csv",
     variable => PennController("norming",
     newTimer(250).start().wait(),
     newText("S", variable.Sentence).print(),
@@ -85,7 +84,6 @@ PennController.Template("comparative_thattrace.csv",
         .settings.log()
     )
     .log( "Sentence", variable.Sentence)
-    .log( "PrimeType", variable.PrimeType)
     .log( "StimType", variable.StimType)
     .log( "Item_num", variable.Item)
     .log( "Group", variable.Group)
