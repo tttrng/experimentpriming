@@ -17,8 +17,8 @@ Item,Sentence,Group,StimType
 4,What did Rachel do for her photography class? Rachel photographed the store.,A,RD
 5,How did Ben receive treatment for his injury? Ben went to a hospital.,A,WI
 5,How did Ben receive treatment for his injury? Ben went to the hospital.,B,WD
-5,What did Ben renovate last year? Ben renovated a hospital.,C,RI
-5,What did Ben renovate last year? Ben renovated the hospital.,D,RD
+5,What did Ben do last year? Ben renovated a hospital.,C,RI
+5,What did Ben do last year? Ben renovated the hospital.,D,RD
 6,How did Daniel find his appointment date? Daniel checked a calendar.,D,WI
 6,How did Daniel find his appointment date? Daniel checked the calendar.,A,WD
 6,What did Daniel do after he got mad? Daniel tore a calendar.,B,RI
@@ -85,8 +85,8 @@ Item,Sentence,Group,StimType
 21,What did Maya do during renovations? Maya painted the kitchen.,D,RD
 22,Where did Nina go swimming? Nina swam in a pool.,D,WI
 22,Where did Nina go swimming? Nina swam in the pool.,A,WD
-22,What did Nina clean that morning? Nina cleaned a pool.,B,RI
-22,What did Nina clean that morning? Nina cleaned the pool.,C,RD
+22,What did Nina do that morning? Nina cleaned a pool.,B,RI
+22,What did Nina do that morning? Nina cleaned the pool.,C,RD
 23,Where did Eric go to see live theater? Eric went to a theater.,C,WI
 23,Where did Eric go to see live theater? Eric went to the theater.,D,WD
 23,What did Eric do for his photography class? Eric photographed a theater.,A,RI
@@ -95,3 +95,4 @@ Item,Sentence,Group,StimType
 24,How did Olivia get dental care yesterday? Olivia visited the dentist.,C,WD
 24,What did Olivia do when her visit ended? Olivia thanked a dentist.,D,RI
 24,What did Olivia do when her visit ended? Olivia thanked the dentist.,A,RD
+
