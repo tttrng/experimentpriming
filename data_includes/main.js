@@ -26,7 +26,7 @@ PennController("demoquestionnaire",
 
 PennController("Instruction",
     newText("<p> Thanks for agreeing to participate in our experiment! Here we explain the task you will be engaging in this experiment.").center().print(),
-    newText("<p> In this experiment, you will be presented with 72 sentences. Your task is to rate each sentence, using 1-7 scale, in terms of <b> how acceptable the sentences sound to you </b> as a native speaker of English. There is no need to consider the plausibility of the meaning of sentences. Just rate each sentence in terms of their well-formedness or ill-formedness. </p>").center().print(),
+    newText("<p> In this experiment, you will be presented with 72 (groups of) sentences. Your task is to rate each (group of) sentence, using 1-7 scale, in terms of <b> how acceptable the sentences sound to you </b> as a native speaker of English. There is no need to consider the plausibility of the meaning of sentences. Just rate each sentence in terms of their well-formedness or ill-formedness. </p>").center().print(),
     newText("<p> Note that there is no 'right answer.' (but there will be some attention checks). So don't overthink or spend too much time on each sentence pair (please read the entire sentences at least once though!). Please rate each sentence using your intuition as a native speaker of English. </p>").center().print(),
     newButton("Start").settings.size(168, 24).print().wait()
 )
